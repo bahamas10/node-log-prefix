@@ -1,7 +1,7 @@
 {
   "name": "log-prefix",
   "description": "Prefix calls to console.log, console.warn, etc with whatever you'd like",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
   "contributors": [],
   "main": "./log-prefix.js",
