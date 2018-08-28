@@ -18,5 +18,12 @@
   "engines": {
     "node": "*"
   },
-  "keywords": [ "console", "console.log", "log", "logger", "timestamp", "prefix" ]
+  "keywords": [
+    "console",
+    "console.log",
+    "log",
+    "logger",
+    "timestamp",
+    "prefix"
+  ]
 }
