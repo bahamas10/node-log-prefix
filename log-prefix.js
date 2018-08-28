@@ -3,7 +3,8 @@ var funcs = {
   log: console.log.bind(console),
   info: console.info.bind(console),
   warn: console.warn.bind(console),
-  error: console.error.bind(console)
+  error: console.error.bind(console),
+  debug: console.debug.bind(console)
 };
 
 module.exports = patch;
